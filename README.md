@@ -188,7 +188,7 @@ Confluent expands Stream Governance capabilities with **Data Portal**, allowing 
 
 <!--- Write about additional features in Confluent Cloud that are relevant for your use case. Examples below -->
 
-- Bidrectional Cluster Linking
+- Bidirectional Cluster Linking
 - Cloud Audit Logs
 - Stream Sharing
 - Custom Connectors
